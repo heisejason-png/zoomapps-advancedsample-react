@@ -277,3 +277,4 @@ docker compose --profile sdk up --build
 
 ℹ️ For more details on setting up rtms, including the sdk and websocket modes, please refer to the README inside the rtms folder.
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
